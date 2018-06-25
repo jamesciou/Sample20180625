@@ -26,7 +26,7 @@
             Use this area to provide additional information.
         </p>
         <ul>
-            <li><a runat="server" href="~/">Home</a></li>
+            <li><a runat="server" href="~/">Home Test</a></li>
             <li><a runat="server" href="~/About">About</a></li>
             <li><a runat="server" href="~/Contact">Contact</a></li>
         </ul>
